@@ -6,3 +6,4 @@
 - 🤔 I have a proven track record of identifying the root causes of bugs and fixing them.
 - 💬 Read about my experience at https://gb.bold.pro/my/muhammad-hassaan-240122171340
 - 📫 You can reach me by email at hassaanmuhammad526@gmail.com.
+- 📫 connect with me on LinkedIn at https://www.linkedin.com/in/muhammad-hassaan-a79527154/
