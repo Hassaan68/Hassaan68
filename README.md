@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Hassaan68)
 ### Hi there 👋
 
 - 🔭 I’m a software engineer and open-source enthusiast
