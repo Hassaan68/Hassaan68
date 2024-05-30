@@ -10,7 +10,7 @@
 - 📫 StackOverflow https://stackoverflow.com/users/9624615/muhammad-hassaan
 - 📫 Read my blogs at https://hassaan.hashnode.dev
 
-Things I code with
+<h3><i>Things I code with</i></h3>
 
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
