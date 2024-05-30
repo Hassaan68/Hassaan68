@@ -50,4 +50,9 @@
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<h3>And More...</h3>
+<h3><a href="https://www.linkedin.com/in/muhammad-hassaan-a79527154/" target="_blank" rel="noreferrer nofollow">And More...</a></h3>
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Hassaan68&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.linkedin.com/in/muhammad-hassaan-a79527154/" target="_blank" rel="noreferrer nofollow">
+    </a>
