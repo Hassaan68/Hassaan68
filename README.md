@@ -52,6 +52,6 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <h3><a href="https://www.linkedin.com/in/muhammad-hassaan-a79527154/" target="_blank" rel="noreferrer nofollow">And More...</a></h3>
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Hassaan68&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Hassaan68&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,include_all_commits" alt="GitHub Stats"></p>
   <a href="https://www.linkedin.com/in/muhammad-hassaan-a79527154/" target="_blank" rel="noreferrer nofollow">
     </a>
