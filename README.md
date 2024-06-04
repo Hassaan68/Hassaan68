@@ -52,19 +52,19 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=typescript,react,kotlin,java,swift,cpp,js,go,python)
+![Languages](https://skillicons.dev/icons?i=typescript,react,kotlin,java,swift,cpp,js,go,python,ktor,sql)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,tailwind,figma)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,tailwind,figma,graphql)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,php,nodejs,flask,docker,graphql,kubernetes,mysql,fastapi&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,bitbucket,jira)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,figma,vscode,,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,figma,vscode,,githubactions,gitlab,gradle,opencv,postman,pytorch,visualstudio,yarn,npm)
 
 <h3><a href="https://www.linkedin.com/in/muhammad-hassaan-a79527154/" target="_blank" rel="noreferrer nofollow">And More...</a></h3>
 <!-- <h2>GitHub Stats</h2>
