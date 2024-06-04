@@ -52,7 +52,7 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=typescript,react,c,cpp,js,go,python,java,swift,kotlin)
+![Languages](https://skillicons.dev/icons?i=typescript,react,kotlin,java,swift,objective-c,dart,phpc,cpp,js,go,python,java)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,tailwind)
