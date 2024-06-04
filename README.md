@@ -62,7 +62,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassaan68&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20&hide_progress=true" alt="Muhammad Hassaan" /></p>
 <div style="display: flex; justify-content: space-between;">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hassaan68)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: flex; justify-content: space-between;">
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan68&" alt="Muhammad Hassaan" /></p>
