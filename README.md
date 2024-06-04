@@ -55,3 +55,10 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Hassaan68&show=reviews,include_all_commits=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"></p>
   <a href="https://www.linkedin.com/in/muhammad-hassaan-a79527154/" target="_blank" rel="noreferrer nofollow">
     </a> -->
+
+
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassaan68&show_icons=true&locale=en&layout=compact" alt="Muhammad Hassaan" /></p>
+<div style="display: flex; justify-content: space-between;">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan68&" alt="Muhammad Hassaan" /></p>
