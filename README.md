@@ -64,7 +64,7 @@
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,bitbucket,jira)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,figma,vscode,,githubactions,gitlab,gradle,opencv,postman,pytorch,visualstudio,yarn,npm)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,figma,vscode,githubactions,gitlab,gradle,opencv,postman,pytorch,visualstudio,yarn,npm)
 
 <h3><a href="https://www.linkedin.com/in/muhammad-hassaan-a79527154/" target="_blank" rel="noreferrer nofollow">And More...</a></h3>
 <!-- <h2>GitHub Stats</h2>
