@@ -10,7 +10,7 @@
 - 📫 StackOverflow https://stackoverflow.com/users/9624615/muhammad-hassaan
 - 📫 Read my blogs at https://hassaan.hashnode.dev
   
-<h3><i>A few of my favorite projects that I have worked on are...</i></h3>
+<h3><i>A few of my favourite projects that I have worked on are...</i></h3>
 
 - <a href="https://apps.apple.com/es/app/prevayl/id1523840020" target="_blank" rel="noreferrer nofollow">Prevayl</a>
 
