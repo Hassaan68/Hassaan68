@@ -9,7 +9,13 @@
 - 📫 connect with me on LinkedIn at https://www.linkedin.com/in/muhammad-hassaan-a79527154/
 - 📫 StackOverflow https://stackoverflow.com/users/9624615/muhammad-hassaan
 - 📫 Read my blogs at https://hassaan.hashnode.dev
-
+- 
+<h3><i>Some of my recent projects</i></h3>
+- <a href="https://apps.apple.com/es/app/prevayl/id1523840020" target="_blank" rel="noreferrer nofollow">Prevayl</a>
+- <a href="https://apps.apple.com/us/app/link-file-share-send-via-link/id1493491042" target="_blank" rel="noreferrer nofollow">Link File Share</a>
+- <a href="https://play.google.com/store/apps/details?id=com.mtg.workapp&hl=en_US" target="_blank" rel="noreferrer nofollow">Work App</a>
+- <a href="https://play.google.com/store/apps/details?id=com.whizpool.ezywatermarklite&hl=en_US" target="_blank" rel="noreferrer nofollow">Ezy Photo Watermark</a>
+- <a href="https://play.google.com/store/apps/details?id=io.cleangreenpakistan.start" target="_blank" rel="noreferrer nofollow">Clean Green Pakistan</a>
 <h3><i>Things I code with</i></h3>
 
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
