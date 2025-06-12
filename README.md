@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a software engineer and open-source enthusiast
-- 🌱 I have over 7 years of professional experience in mobile applications development, full stack and ai.
+- 🌱 I have over 7 years of professional experience in mobile applications development,typescript, Node.js, full stack, next.js, python fastapi, docker, kubernetes and ai.
 - 👯 OpenSource contributor 
 - 🤔 I have a proven track record of identifying the root causes of bugs and fixing them.
 - 💬 Read about my experience and core skills at https://gb.bold.pro/my/muhammad-hassaan-240122171340
